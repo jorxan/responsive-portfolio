@@ -12,12 +12,7 @@ body {
 
 /* general */
 
-.container {
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto;
-  clear: both;
-}
+
 
 h1,
 h2,
@@ -94,6 +89,7 @@ footer {
   background: #666666;
   border-top: 8px solid #4aaaa5;
   height: 50px;
+  margin: auto 10%;
 }
 
 h3, h2 {
@@ -201,3 +197,5 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+
